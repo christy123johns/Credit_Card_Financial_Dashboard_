@@ -1,6 +1,5 @@
 # Credit_Card_Financial_Dashboard_
 
-# Credit_Card_Financial_Dashboard
 End-to-End ETL Pipeline: Credit Card Transactions &amp; Customer Insights Dashboard
 
 Credit Card Financial Weekly Dashboard
